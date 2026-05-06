@@ -1,6 +1,6 @@
 # Build a products listing application with Golang and MySQL
 
-> **Note:** This demo integrates PlanetScale Vitess/MySQL with Go—it is not the only way to use PlanetScale. PlanetScale also offers managed PostgreSQL. For more information and examples, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
+> **Note:** This demo targets PlanetScale Vitess/MySQL. PlanetScale also offers managed PostgreSQL. For more information, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
 
 This is an example demo showing how to integrate PlanetScale with Go to build a products listing application. 
 
